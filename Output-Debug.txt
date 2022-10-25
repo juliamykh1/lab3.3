@@ -1,0 +1,13 @@
+﻿'lab3.3.exe' (Win32): Loaded 'C:\Users\Користувач\source\repos\lab3.3\Debug\lab3.3.exe'. Symbols loaded.
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x8490 has exited with code 0 (0x0).
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'lab3.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0xef8 has exited with code 0 (0x0).
+The thread 0x7ab8 has exited with code 0 (0x0).
+The program '[36104] lab3.3.exe' has exited with code 0 (0x0).
